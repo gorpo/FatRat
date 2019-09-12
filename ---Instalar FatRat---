@@ -1,0 +1,39 @@
+---Instalar FatRat---
+
+
+
+
+Minguw64 e 32 bits + wine 32/64:
+sudo apt-get install gcc-mingw-w64-x86-64 g++-mingw-w64-x86-64 wine64
+
+
+sudo apt-get install gcc-mingw-w64
+
+<!--Compile: 
+
+x86_64-w64-mingw32-gcc -o hello.exe hello.c
+
+Check the result:
+
+file hello.exe
+
+Run:
+
+wine64 ./hello.exe  -------->
+
+
+------Jarsigner------
+
+---instalar jdk e jre do java:
+
+sudo apt-get install default-jre
+sudo apt-get install default-jdk
+
+
+
+
+
+
+
+
+
